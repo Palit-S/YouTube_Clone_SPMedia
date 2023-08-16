@@ -2,6 +2,8 @@
 
 **YouTube Clone Project with React.js**
 
+Deployed Site : "https://vocal-lily-70912b.netlify.app/"
+
 ![image](https://github.com/Palit-S/YouTube_Clone_SPMedia/assets/91267208/c83ab041-bba5-4e00-902d-9142b48755b6)
 
 
