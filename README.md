@@ -8,7 +8,7 @@ Deployed Site : "https://vocal-lily-70912b.netlify.app/"
 
 
 
-This repository contains a YouTube clone project built using React.js, Material UI, and the Rapid API for fetching video data. This project aims to replicate some of the core functionalities of YouTube, providing a user-friendly interface for browsing and watching videos. Below, you'll find an overview of the project, its functionalities, and their importance.
+This repository contains a YouTube clone project built using React.js, Material UI, and the Rapid API (for fetching video data). This project aims to replicate some of the core functionalities of YouTube, providing a user-friendly interface for browsing and watching videos. Below, you'll find an overview of the project, its functionalities, and their importance.
 
 **Functionalities:**
 
